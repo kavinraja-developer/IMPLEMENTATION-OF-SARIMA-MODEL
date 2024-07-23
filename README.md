@@ -1,5 +1,4 @@
-# Exp.no: 10   IMPLEMENTATION OF SARIMA MODEL
-### Date: 
+# IMPLEMENTATION OF SARIMA MODEL
 
 ### AIM:
 To implement SARIMA model using python.
